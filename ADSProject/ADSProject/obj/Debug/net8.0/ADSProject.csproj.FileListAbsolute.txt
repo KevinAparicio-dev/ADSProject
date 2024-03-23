@@ -1,0 +1,64 @@
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\bin\Debug\net8.0\appsettings.Development.json
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\bin\Debug\net8.0\appsettings.json
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.exe
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.deps.json
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.runtimeconfig.json
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.dll
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.pdb
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.csproj.AssemblyReference.cache
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.AssemblyInfoInputs.cache
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.AssemblyInfo.cs
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.csproj.CoreCompileInputs.cache
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.MvcApplicationPartsAssemblyInfo.cs
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.MvcApplicationPartsAssemblyInfo.cache
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets.build.json
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets.development.json
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.ADSProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.build.ADSProject.props
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ADSProject.props
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ADSProject.props
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\scopedcss\bundle\ADSProject.styles.css
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.csproj.Up2Date
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.dll
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\refint\ADSProject.dll
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.pdb
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.genruntimeconfig.cache
+D:\USO\CICLO 01-2024\LAB DE ANALISIS DE SISTEMAS\ADSProject\ADSProject\obj\Debug\net8.0\ref\ADSProject.dll
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\bin\Debug\net8.0\appsettings.Development.json
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\bin\Debug\net8.0\appsettings.json
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.exe
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.deps.json
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.runtimeconfig.json
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.dll
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.pdb
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.csproj.AssemblyReference.cache
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.AssemblyInfoInputs.cache
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.AssemblyInfo.cs
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.csproj.CoreCompileInputs.cache
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.MvcApplicationPartsAssemblyInfo.cs
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.MvcApplicationPartsAssemblyInfo.cache
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets.build.json
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets.development.json
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.ADSProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.build.ADSProject.props
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ADSProject.props
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ADSProject.props
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\scopedcss\bundle\ADSProject.styles.css
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.csproj.Up2Date
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.dll
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\refint\ADSProject.dll
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.pdb
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.genruntimeconfig.cache
+D:\USO\CICLO 01-2024\ADSProject\ADSProject\obj\Debug\net8.0\ref\ADSProject.dll
