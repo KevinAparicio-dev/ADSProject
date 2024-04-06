@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\USO\\CICLO 01-2024\\ADSProject\\ADSProject\\ADSProject.csproj": {}
+    "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\ADSProject.csproj": {}
   },
   "projects": {
-    "D:\\USO\\CICLO 01-2024\\ADSProject\\ADSProject\\ADSProject.csproj": {
+    "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\ADSProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\USO\\CICLO 01-2024\\ADSProject\\ADSProject\\ADSProject.csproj",
+        "projectUniqueName": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\ADSProject.csproj",
         "projectName": "ADSProject",
-        "projectPath": "D:\\USO\\CICLO 01-2024\\ADSProject\\ADSProject\\ADSProject.csproj",
+        "projectPath": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\ADSProject.csproj",
         "packagesPath": "C:\\Users\\Kevin Aparicio\\.nuget\\packages\\",
-        "outputPath": "D:\\USO\\CICLO 01-2024\\ADSProject\\ADSProject\\obj\\",
+        "outputPath": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kevin Aparicio\\AppData\\Roaming\\NuGet\\NuGet.Config",
