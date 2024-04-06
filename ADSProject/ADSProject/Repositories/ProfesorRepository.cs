@@ -7,7 +7,7 @@ namespace ADSProject.Repositories
     {
         private List<Profesor> lstProfesor = new List<Profesor>
         {
-            new Profesor{IdProfesor = 1, NombresProfesor="Maria", ApellidosProfesor = "Zaragoza", Email="mZaragoza1001@gmail.com"}
+            new Profesor{IdProfesor = 1, NombresProfesor="Kevin", ApellidosProfesor = "Aparicio", Email="kevapa.com"}
         };
 
         public int ActualizarProfesor(int idProfesor, Profesor profesor)
