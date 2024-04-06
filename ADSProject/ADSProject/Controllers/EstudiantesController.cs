@@ -25,6 +25,7 @@ namespace ADSProject.Controllers
         {
             try
             {
+                //se valida el modelo
                 if (!ModelState.IsValid)
                 {
                     return BadRequest(ModelState);
