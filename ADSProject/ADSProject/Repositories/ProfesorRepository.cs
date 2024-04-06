@@ -62,11 +62,6 @@ namespace ADSProject.Repositories
 
         public Profesor ObtenerProfesorPorID(int idProfesor)
         {
-            throw new NotImplementedException();
-        }
-
-        public Profesor ObtenerProfesorPorId(int idProfesor)
-        {
             try
             {
                 Profesor profesor = lstProfesor.FirstOrDefault(tmp => tmp.IdProfesor == idProfesor);
@@ -93,12 +88,16 @@ namespace ADSProject.Repositories
 
         public List<Profesor> ObtenerTodosLosProfesores()
         {
-            throw new NotImplementedException();
+            try
+            {
+                return this.lstProfesor;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
-        Carrera IProfesor.ObtenerProfesorPorId(int idProfesor)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

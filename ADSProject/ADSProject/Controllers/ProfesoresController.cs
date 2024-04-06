@@ -25,6 +25,11 @@ namespace ADSProject.Controllers
         {
             try
             {
+                //se valida el modelo
+                if (!ModelState.IsValid)
+                {
+                    return BadRequest(ModelState);
+                }
                 int contador = this.profesor.AgregarProfesor(profesor);
 
                 if (contador > 0)
@@ -54,6 +59,11 @@ namespace ADSProject.Controllers
         {
             try
             {
+                //se valida el modelo
+                if (!ModelState.IsValid)
+                {
+                    return BadRequest(ModelState);
+                }
                 int contador = this.profesor.ActualizarProfesor(idProfesor, profesor);
 
                 if (contador > 0)
@@ -111,7 +121,7 @@ namespace ADSProject.Controllers
         {
             try
             {
-                Carrera carrera = this.profesor.ObtenerProfesorPorId(idProfesor);
+                Profesor profesor = this.profesor.ObtenerProfesorPorID(idProfesor);
 
                 if (profesor != null)
                 {
