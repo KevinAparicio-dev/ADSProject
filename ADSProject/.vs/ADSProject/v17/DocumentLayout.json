@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|d:\\uso\\ciclo 01-2024\\lab de analisis de sistemas\\adsproject\\adsproject\\adsproject\\repositories\\profesorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\repositories\\profesorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|d:\\uso\\ciclo 01-2024\\lab de analisis de sistemas\\adsproject\\adsproject\\adsproject\\controllers\\gruposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\controllers\\gruposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|d:\\uso\\ciclo 01-2024\\lab de analisis de sistemas\\adsproject\\adsproject\\adsproject\\controllers\\profesorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\controllers\\profesorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|d:\\uso\\ciclo 01-2024\\lab de analisis de sistemas\\adsproject\\adsproject\\adsproject\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|d:\\uso\\ciclo 01-2024\\lab de analisis de sistemas\\adsproject\\adsproject\\adsproject\\interfaces\\iprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\interfaces\\iprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|d:\\uso\\ciclo 01-2024\\lab de analisis de sistemas\\adsproject\\adsproject\\adsproject\\controllers\\materiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\controllers\\materiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|d:\\uso\\ciclo 01-2024\\lab de analisis de sistemas\\adsproject\\adsproject\\adsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|d:\\uso\\ciclo 01-2024\\lab de analisis de sistemas\\adsproject\\adsproject\\adsproject\\controllers\\carrerascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\controllers\\carrerascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|d:\\uso\\ciclo 01-2024\\lab de analisis de sistemas\\adsproject\\adsproject\\adsproject\\models\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\models\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|d:\\uso\\ciclo 01-2024\\lab de analisis de sistemas\\adsproject\\adsproject\\adsproject\\repositories\\carrerarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\repositories\\carrerarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|d:\\uso\\ciclo 01-2024\\lab de analisis de sistemas\\adsproject\\adsproject\\adsproject\\repositories\\materiarespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\repositories\\materiarespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|d:\\uso\\ciclo 01-2024\\lab de analisis de sistemas\\adsproject\\adsproject\\adsproject\\repositories\\gruporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\repositories\\gruporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|d:\\uso\\ciclo 01-2024\\lab de analisis de sistemas\\adsproject\\adsproject\\adsproject\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|d:\\uso\\ciclo 01-2024\\lab de analisis de sistemas\\adsproject\\adsproject\\adsproject\\controllers\\carrerascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\controllers\\carrerascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C370A040-922A-42F9-942B-26B3138B7340}|ADSProject\\ADSProject.csproj|d:\\uso\\ciclo 01-2024\\lab de analisis de sistemas\\adsproject\\adsproject\\adsproject\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,29 +58,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IProfesor.cs",
-              "DocumentMoniker": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Interfaces\\IProfesor.cs",
-              "RelativeDocumentMoniker": "ADSProject\\Interfaces\\IProfesor.cs",
-              "ToolTip": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Interfaces\\IProfesor.cs",
-              "RelativeToolTip": "ADSProject\\Interfaces\\IProfesor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "DocumentIndex": 5,
+              "Title": "MateriaRespository.cs",
+              "DocumentMoniker": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Repositories\\MateriaRespository.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Repositories\\MateriaRespository.cs",
+              "ToolTip": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Repositories\\MateriaRespository.cs",
+              "RelativeToolTip": "ADSProject\\Repositories\\MateriaRespository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T16:44:50.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T00:17:11.232Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProfesorRepository.cs",
-              "DocumentMoniker": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Repositories\\ProfesorRepository.cs",
-              "RelativeDocumentMoniker": "ADSProject\\Repositories\\ProfesorRepository.cs",
-              "ToolTip": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Repositories\\ProfesorRepository.cs",
-              "RelativeToolTip": "ADSProject\\Repositories\\ProfesorRepository.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAYwEkAAAANAAAA",
+              "Title": "GruposController.cs",
+              "DocumentMoniker": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Controllers\\GruposController.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Controllers\\GruposController.cs",
+              "ToolTip": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Controllers\\GruposController.cs",
+              "RelativeToolTip": "ADSProject\\Controllers\\GruposController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwFUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T16:38:55.408Z",
+              "WhenOpened": "2024-04-11T00:13:34.773Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grupo.cs",
+              "DocumentMoniker": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Models\\Grupo.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Models\\Grupo.cs",
+              "ToolTip": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Models\\Grupo.cs",
+              "RelativeToolTip": "ADSProject\\Models\\Grupo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T00:06:11.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GrupoRepository.cs",
+              "DocumentMoniker": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Repositories\\GrupoRepository.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Repositories\\GrupoRepository.cs",
+              "ToolTip": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Repositories\\GrupoRepository.cs",
+              "RelativeToolTip": "ADSProject\\Repositories\\GrupoRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T00:06:07.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MateriasController.cs",
+              "DocumentMoniker": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Controllers\\MateriasController.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Controllers\\MateriasController.cs",
+              "ToolTip": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Controllers\\MateriasController.cs",
+              "RelativeToolTip": "ADSProject\\Controllers\\MateriasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:22:02.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Materia.cs",
+              "DocumentMoniker": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Models\\Materia.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Models\\Materia.cs",
+              "ToolTip": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Models\\Materia.cs",
+              "RelativeToolTip": "ADSProject\\Models\\Materia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:20:29.22Z"
             },
             {
               "$type": "Document",
@@ -82,27 +137,13 @@
               "RelativeDocumentMoniker": "ADSProject\\Program.cs",
               "ToolTip": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Program.cs",
               "RelativeToolTip": "ADSProject\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T16:36:11.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T16:36:11.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProfesoresController.cs",
-              "DocumentMoniker": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Controllers\\ProfesoresController.cs",
-              "RelativeDocumentMoniker": "ADSProject\\Controllers\\ProfesoresController.cs",
-              "ToolTip": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Controllers\\ProfesoresController.cs",
-              "RelativeToolTip": "ADSProject\\Controllers\\ProfesoresController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAswHYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T16:31:44.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "CarrerasController.cs",
               "DocumentMoniker": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Controllers\\CarrerasController.cs",
               "RelativeDocumentMoniker": "ADSProject\\Controllers\\CarrerasController.cs",
@@ -110,25 +151,11 @@
               "RelativeToolTip": "ADSProject\\Controllers\\CarrerasController.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAAwCEAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T16:31:37.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T16:31:37.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CarreraRepository.cs",
-              "DocumentMoniker": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Repositories\\CarreraRepository.cs",
-              "RelativeDocumentMoniker": "ADSProject\\Repositories\\CarreraRepository.cs",
-              "ToolTip": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Repositories\\CarreraRepository.cs",
-              "RelativeToolTip": "ADSProject\\Repositories\\CarreraRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T16:31:10.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Estudiante.cs",
               "DocumentMoniker": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Models\\Estudiante.cs",
               "RelativeDocumentMoniker": "ADSProject\\Models\\Estudiante.cs",
@@ -136,21 +163,19 @@
               "RelativeToolTip": "ADSProject\\Models\\Estudiante.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAQwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T16:23:18.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T16:23:18.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Profesor.cs",
               "DocumentMoniker": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Models\\Profesor.cs",
               "RelativeDocumentMoniker": "ADSProject\\Models\\Profesor.cs",
               "ToolTip": "D:\\USO\\CICLO 01-2024\\LAB DE ANALISIS DE SISTEMAS\\ADSProject\\ADSProject\\ADSProject\\Models\\Profesor.cs",
               "RelativeToolTip": "ADSProject\\Models\\Profesor.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAApAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T04:15:57.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T04:15:57.53Z"
             }
           ]
         }
